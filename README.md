@@ -1,11 +1,11 @@
 # EIP4_Session1
 Assignment of Session 1 - Basics of Convolution Neural Networks
 
-# Score
+# Score - 99.27%
 
-print(score)
+print(score) 
 
-[0.038608324298231626, 0.9905]
+[0.03688484263069972, 0.9927]
 
 # Own Definitions
 
